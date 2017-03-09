@@ -38,7 +38,7 @@ if(!fs.existsSync(todayFile)){
 }
 
 function formatMessage(date, category, message){
-  category = category || 'Geral';
-  message = message || 'Vazia';
+  category = category || 'Empty';
+  message = message || 'Empty';
   return date.getHours() + ":" + date.getMinutes() + ' - ' + category + ' - ' + message + '\n';
 }
