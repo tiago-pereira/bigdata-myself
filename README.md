@@ -27,9 +27,7 @@ BgM currently works with only two options:
 $ bgm -c "Lunch" -m "I ate an apple"
 ```
 
-which generates the following file
-`$HOME/bgm/2017-03-08.txt`
+which generates the file `$HOME/bgm/2017-03-08.txt`
 
-with the text 
-`10:03 - Lunch - I ate an apple'
+with the text `10:03 - Lunch - I ate an apple`
 
