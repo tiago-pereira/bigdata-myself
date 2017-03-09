@@ -37,6 +37,6 @@ $ bgm -c "Games" -m "I played 15 min of wow"
 ```
 
 ```
-10:03 - Lunch - I ate an apple`
-10:30 - Games - I played 15 min of wow`
+10:03 - Lunch - I ate an apple
+10:30 - Games - I played 15 min of wow
 ```
