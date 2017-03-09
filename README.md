@@ -1,8 +1,5 @@
 # BigData MYSELF!
-
-## What's BigData Myself?
 BigData Myself (BgM) helps you to save your small actions/tasks/things on disk easily by providing a simple node cli interface.
-
 
 
 ## How?
