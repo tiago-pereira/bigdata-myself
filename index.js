@@ -5,7 +5,7 @@ const fs = require('fs');
 const program = require('commander');
 
 program
- .version('0.0.1')
+ .version('1.0.1')
  .option('-c, --category <category>', 'Category of the log')
  .option('-m, --message <message>', 'Log message')
  .parse(process.argv);
