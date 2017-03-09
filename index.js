@@ -24,7 +24,7 @@ if(!fs.existsSync(todayFile)){
     formatMessage(today, program.category, program.message),
     function(err){
       if (err) return console.log(err);
-      console.log("Salvo em "+ todayFile);
+      console.log("Saved: "+ todayFile);
     }
   );
 } else {
@@ -32,7 +32,7 @@ if(!fs.existsSync(todayFile)){
     formatMessage(today, program.category, program.message),
     function(err){
       if (err) return console.log(err);
-      console.log("Salvo em "+ todayFile);
+      console.log("Saved: "+ todayFile);
     }
   );
 }
